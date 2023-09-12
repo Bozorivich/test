@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #726f6f;
+}
+
+
+
+
+.country {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    font-size: 35px;
+    color: #2a1fcb;
+}
+span{
+    margin-left: -270px;
+    margin-top: 20px;
+    color: #6d0606;
+    
+}
+.item{
+    width: 900px;
+    height: 499px;
+    margin-left: 300px;
+    margin-top: 70px;
+    border: 4px solid rgb(114, 0, 0);
+    
+}
+.item img{
+    width: 491px;
+}
